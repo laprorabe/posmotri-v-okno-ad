@@ -1,1 +1,1 @@
-https://github.com/твой-никнейм/posmotri-v-okno-ad
+https://github.com/laprorabe/posmotri-v-okno-ad
